@@ -2,6 +2,10 @@
 
 A deep learning-based image caption generator that uses VGG16 for image feature extraction and LSTM for generating natural-language captions.
 
+## Live Demo
+
+Try the deployed application: [Image Caption Generator](https://image-caption-generator-ai.streamlit.app)
+
 ## Project Overview
 
 This project takes an input image and automatically generates a descriptive caption for it.
