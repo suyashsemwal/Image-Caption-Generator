@@ -6,6 +6,11 @@ A deep learning-based image caption generator that uses VGG16 for image feature 
 
 Try the deployed application: [Image Caption Generator](https://image-caption-generator-ai.streamlit.app)
 
+## Demo
+
+![Image Caption Generator Demo](demo.png)
+
+
 ## Project Overview
 
 This project takes an input image and automatically generates a descriptive caption for it.
@@ -16,3 +21,15 @@ The model was trained using the Flickr8k dataset and uses a CNN-LSTM architectur
 - **LSTM** generates the caption word by word.
 - **Tokenizer** converts words into numerical sequences.
 - **Streamlit** provides the web interface.
+
+## Technologies Used
+
+- Python
+- TensorFlow
+- Keras
+- VGG16
+- LSTM
+- NumPy
+- Pillow
+- Streamlit
+- Jupyter Notebook
